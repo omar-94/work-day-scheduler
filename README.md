@@ -4,7 +4,7 @@
 ## Description
 A work day scheduler allowing user to keep track of daily task. Application uses local storage in browser to save and retrieve user input.
 
-![Screenshot]()
+![Screenshot](assets/images/application.gif)
 
 ## Links
 - Application:
