@@ -1,21 +1,24 @@
-# Password Generator
+# Work Day Scheduler
 ![Github License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
-A password generator application allowing user to select password length along with character type to produce a random password.
+A work day scheduler allowing user to keep track of daily task. Application uses local storage in browser to save and retrieve user input.
 
-![Screenshot](./assets/images/application.gif)
+![Screenshot]()
 
 ## Links
 - Application:
-https://omar-94.github.io/password-generator/
+https://omar-94.github.io/work-day-scheduler/
 
 - GitHub Repository:
-https://github.com/omar-94/password-generator
-
+https://github.com/omar-94/work-day-scheduler
 
 ## Technologies
+- HTML
+- CSS
 - Javascript
+- jQuery
+- Bootstrap
 
 ## Contact 
 Omar Nava  
